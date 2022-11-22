@@ -14,5 +14,5 @@
 
 <br/>
 
-| <a href="https://github.com/adnan-alam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan-alam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/adnan-alam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-alam&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/adnan-alam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan-alam&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues&theme=buefy&hide_border=true" alt="Adnan Alam's github stats" /></a> | <a href="https://github.com/adnan-alam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-alam&hide=jupyter%20notebook,css,html&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
