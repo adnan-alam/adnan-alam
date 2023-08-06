@@ -1,5 +1,5 @@
 <h1 align="center">Adnan Alam</h1>
-<h3 align="center">Fullstack Software Developer | Problem Solver | Self-taught Programmer  </h3>
+<h3 align="center">Fullstack Software Developer | Problem Solver</h3>
 
 
 <div align="center">
